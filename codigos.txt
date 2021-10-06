@@ -1,0 +1,9 @@
+Guardar cambios
+    git add .
+Comentar los cambios hechos.
+    git commit -m "comentar"
+Subir los cambios.
+    git push
+Bajar los cambios.
+    git pull
+    
